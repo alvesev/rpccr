@@ -1,0 +1,9 @@
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                                   Version                                             Description
++++-======================================-===================================================-==============================================================================
+ii  abiword                                2.9.2+svn20120213-1                                 efficient, featureful word processor with collaboration
+ii  abiword-common                         2.9.2+svn20120213-1                                 efficient, featureful word processor with collaboration -- common files
+ii  zlib1g:i386                            1:1.2.3.4.dfsg-3ubuntu4                             compression library - runtime
+ii  zlib1g-dev                             1:1.2.3.4.dfsg-3ubuntu4                             compression library - development
