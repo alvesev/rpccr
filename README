@@ -1,0 +1,24 @@
+#
+#  Copyright 2013 Alex Vesev
+#
+#  This file is part of Repository Processor - RPCCR.
+#
+#  RPCCR is free software: you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation, either version 3 of the License, or
+#  (at your option) any later version.
+#
+#  RPCCR is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+#
+#  You should have received a copy of the GNU General Public License
+#  along with RPCCR.  If not, see <http://www.gnu.org/licenses/>.
+#
+##
+
+#  This program is a tool to assist in a routine operations while
+#  a repository or other software collection maintaining.
+#
+##
